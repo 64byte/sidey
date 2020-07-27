@@ -14,7 +14,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "https://64byte.github.io/"
 
 highlighter: none
 
